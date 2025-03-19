@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "publication": 2019,
+    "genre": "Programming",
+    "read_status": false,
+    "added_date": "2025-03-19 12:43"
+  },
+  {
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "publication": 2008,
+    "genre": "Programming",
+    "read_status": true,
+    "added_date": "2025-03-18 15:30"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "publication": 2008,
+    "genre": "Software Development",
+    "read_status": false,
+    "added_date": "2025-03-17 10:15"
+  },
+  {
+    "title": "You Don't Know JS",
+    "author": "Kyle Simpson",
+    "publication": 2015,
+    "genre": "JavaScript",
+    "read_status": true,
+    "added_date": "2025-03-16 09:00"
+  }
+]
